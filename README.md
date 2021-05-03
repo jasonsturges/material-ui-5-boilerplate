@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Material UI 5 Boilerplate
+
+Scaffolding includes:
+- Material UI 5 with Emotion
+- Redux Toolkit with example user slice
+- Notistack
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
