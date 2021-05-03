@@ -4,6 +4,7 @@ import { CssBaseline, ThemeProvider } from "@material-ui/core";
 import NotistackProvider from "./providers/NotistackProvider";
 import store from "./store";
 import theme from "./theme/theme";
+import Routes from "./Routes";
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <ThemeProvider theme={theme}>
         <CssBaseline />
         <NotistackProvider>
+          <Routes />
         </NotistackProvider>
       </ThemeProvider>
     </Provider>
