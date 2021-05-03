@@ -1,9 +1,9 @@
 # Material UI 5 Boilerplate
 
 Scaffolding includes:
-- Material UI 5 with Emotion
-- Redux Toolkit with example user slice
-- Notistack
+- [Material UI][1] 5 with [Emotion][2]
+- [Redux Toolkit][3] with example user slice
+- [Notistack][4]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -73,3 +73,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+  [1]: https://next--material-ui.netlify.app/
+  [2]: https://emotion.sh/docs/introduction
+  [3]: https://redux-toolkit.js.org/
+  [4]: https://www.iamhosseindhv.com/notistack
