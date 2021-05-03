@@ -1,10 +1,15 @@
+import React from "react";
 import { Provider } from "react-redux";
+import { CssBaseline, ThemeProvider } from "@material-ui/core";
 import store from "./store";
+import theme from "./theme/theme";
 
 function App() {
   return (
     <Provider store={store}>
-      <div></div>
+      <ThemeProvider theme={theme}>
+        <CssBaseline />
+      </ThemeProvider>
     </Provider>
   );
 }
