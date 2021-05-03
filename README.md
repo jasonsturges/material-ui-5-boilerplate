@@ -1,7 +1,7 @@
 # Material UI 5 Boilerplate
 
 Scaffolding includes:
-- [Material UI][1] 5 with [Emotion][2]
+- [Material UI 5][1] with [Emotion][2]
 - [Redux Toolkit][3] with example user slice
 - [Notistack][4]
 
