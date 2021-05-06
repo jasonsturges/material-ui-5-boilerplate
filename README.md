@@ -1,7 +1,8 @@
 # Material UI 5 React Boilerplate
 
 Scaffolding includes:
-- [Material UI 5][1] with [Emotion][2]
+- [Material UI 5][1] 
+- [Emotion][2]
 - [Redux Toolkit][3] with example user slice
 - [Notistack][4]
 
