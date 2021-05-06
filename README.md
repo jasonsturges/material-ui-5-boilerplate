@@ -1,4 +1,4 @@
-# Material UI 5 Boilerplate
+# Material UI 5 React Boilerplate
 
 Scaffolding includes:
 - [Material UI 5][1] with [Emotion][2]
