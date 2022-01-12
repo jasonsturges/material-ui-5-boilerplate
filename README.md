@@ -4,7 +4,8 @@ Scaffolding includes:
 - [Material UI 5][1] 
 - [Emotion][2]
 - [Redux Toolkit][3] with example user slice
-- [Notistack][4]
+- [Recoil][4]
+- [Notistack][5]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -79,4 +80,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   [1]: https://next--material-ui.netlify.app/
   [2]: https://emotion.sh/docs/introduction
   [3]: https://redux-toolkit.js.org/
-  [4]: https://www.iamhosseindhv.com/notistack
+  [4]: https://recoiljs.org/
+  [5]: https://www.iamhosseindhv.com/notistack
