@@ -13,8 +13,8 @@ function App() {
     <RecoilRoot>
       <Provider store={store}>
         <StyledEngineProvider injectFirst>
+          <CssBaseline />
           <ThemeProvider theme={theme}>
-            <CssBaseline />
             <NotistackProvider>
               <Routes />
             </NotistackProvider>
