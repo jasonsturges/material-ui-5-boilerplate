@@ -1,7 +1,7 @@
 import React from "react";
 import { Provider } from "react-redux";
-import { CssBaseline, StyledEngineProvider } from "@material-ui/core";
-import { ThemeProvider } from "@material-ui/core/styles";
+import { CssBaseline, StyledEngineProvider } from "@mui/material";
+import { ThemeProvider } from "@mui/material/styles";
 import NotistackProvider from "./providers/NotistackProvider";
 import store from "./store";
 import theme from "./theme/theme";

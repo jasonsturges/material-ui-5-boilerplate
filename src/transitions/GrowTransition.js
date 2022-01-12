@@ -1,5 +1,5 @@
 import React from "react";
-import { Grow } from "@material-ui/core";
+import { Grow } from "@mui/material";
 
 const GrowTransition = (props) => {
   return <Grow {...props} />;

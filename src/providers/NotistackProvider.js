@@ -1,7 +1,7 @@
 import React, { createRef } from "react";
-import CloseIcon from "@material-ui/icons/Close";
+import CloseIcon from "@mui/icons-material/Close";
 import { SnackbarProvider } from "notistack";
-import { IconButton } from "@material-ui/core";
+import { IconButton } from "@mui/material";
 import GrowTransition from "../transitions/GrowTransition";
 
 const NotistackProvider = (props) => {
