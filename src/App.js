@@ -5,9 +5,9 @@ import { Provider } from "react-redux";
 import { RecoilRoot } from "recoil";
 import { ThemeProvider } from "@mui/material/styles";
 import NotistackProvider from "./providers/NotistackProvider";
+import Routes from "./Routes";
 import store from "./store";
 import theme from "./theme/theme";
-import Routes from "./Routes";
 
 function App() {
   return (
