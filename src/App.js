@@ -1,4 +1,5 @@
 import React from "react";
+import { BrowserRouter } from "react-router-dom";
 import { CssBaseline, StyledEngineProvider } from "@mui/material";
 import { Provider } from "react-redux";
 import { RecoilRoot } from "recoil";
@@ -16,7 +17,9 @@ function App() {
           <CssBaseline />
           <ThemeProvider theme={theme}>
             <NotistackProvider>
-              <Routes />
+              <BrowserRouter>
+                <Routes />
+              </BrowserRouter>
             </NotistackProvider>
           </ThemeProvider>
         </StyledEngineProvider>
