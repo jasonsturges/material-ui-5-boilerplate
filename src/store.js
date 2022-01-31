@@ -1,8 +1,10 @@
 import { configureStore } from "@reduxjs/toolkit";
-import UserReducer from "./features/user/userSlice";
+import notificationsSlice from "./features/notifications/notificationsSlice";
+import userSlice from "./features/user/userSlice";
 
 export default configureStore({
   reducer: {
-    user: UserReducer
+    notifications: notificationsSlice,
+    user: userSlice,
   },
 });
