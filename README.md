@@ -1,11 +1,12 @@
 # Material UI 5 React Boilerplate
 
 Scaffolding includes:
-- [Material UI 5][1] 
-- [Emotion][2]
-- [Redux Toolkit][3] with example user slice
-- [Recoil][4]
-- [Notistack][5]
+- [React 18][1]
+- [Material UI 5][2]
+- [Emotion][3]
+- [Redux Toolkit][4] with example user slice
+- [Recoil][5]
+- [Notistack][6]
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -77,8 +78,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-  [1]: https://next--material-ui.netlify.app/
-  [2]: https://emotion.sh/docs/introduction
-  [3]: https://redux-toolkit.js.org/
-  [4]: https://recoiljs.org/
-  [5]: https://www.iamhosseindhv.com/notistack
+  [1]: https://reactjs.org/
+  [2]: https://next--material-ui.netlify.app/
+  [3]: https://emotion.sh/docs/introduction
+  [4]: https://redux-toolkit.js.org/
+  [5]: https://recoiljs.org/
+  [6]: https://www.iamhosseindhv.com/notistack
